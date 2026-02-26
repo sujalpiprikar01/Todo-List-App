@@ -1,61 +1,138 @@
-📝 To-Do List Web App
+📝 Interactive To-Do List Web App
 
-A clean and intuitive To-Do List Web Application that allows users to manage daily tasks efficiently.
-Users can add, edit, delete tasks, set priority levels, and assign due dates. Tasks are stored in the browser using local storage.
+A modern, responsive, and fully interactive To-Do List web application built using core web technologies.
+This project allows users to efficiently manage daily tasks with features like task prioritization, due dates, and persistent storage.
 
-🚀 Features
+🚀 Live Demo
 
-✅ Add new tasks
-✏️ Edit existing tasks
-❌ Delete tasks
-📅 Set due dates
-🔥 Set task priority (Low / Medium / High)
-✔️ Mark tasks as completed
-💾 Data stored using Local Storage (persists after page reload)
-🎨 Clean and responsive user interface
+👉 (Add your GitHub Pages / Netlify link here)
 
-🛠️ Technologies Used
+📌 Project Overview
+
+This application is designed to simulate a real-world task management system.
+
+It focuses on:
+
+Clean and intuitive UI
+
+Interactive task management
+
+Persistent data storage using LocalStorage
+
+User-friendly experience
+
+The goal of this project is to demonstrate DOM manipulation, event handling, and responsive design principles using HTML, CSS, and JavaScript.
+
+✨ Key Features
+📋 Task Management
+
+Add new tasks
+
+Edit existing tasks
+
+Delete tasks
+
+Mark tasks as completed
+
+🔥 Task Customization
+
+Set Priority (Low / Medium / High)
+
+Assign Due Date
+
+Visual task completion state
+
+💾 Data Persistence
+
+Tasks saved using LocalStorage
+
+Data remains even after page refresh
+
+🎨 UI & Design
+
+Modern gradient background
+
+Clean card layout
+
+Responsive design
+
+Interactive buttons and hover effects
+
+⚙️ JavaScript Functionality
+
+DOM Manipulation
+
+Event Listeners
+
+Dynamic Element Creation
+
+LocalStorage Integration
+
+Input Validation
+
+Task State Management
+
+🛠️ Tech Stack
 
 HTML5
-CSS3
-JavaScript (Vanilla JS)
-Browser Local Storage
+
+CSS3 (Flexbox, Styling, UI Design)
+
+JavaScript (ES6)
+
+LocalStorage API
 
 📂 Project Structure
-todo-list-app/
-│
-├── index.html
-├── style.css
-├── script.js
-└── images/
+📁 To-Do-List-App
+│── index.html
+│── style.css
+│── script.js
+│── images/
 
-📸 Screenshot
+🎯 Learning Objectives
 
-![App Screenshot](screenshot.png)
+This project demonstrates:
 
-💻 How to Run the Project
+DOM Manipulation
 
-Download or clone the repository
-Open the project folder
-Double click on index.html
-The app will open in your browser
+Event Handling
 
-OR
+LocalStorage Implementation
 
-Clone using Git:
+Dynamic UI Rendering
 
-git clone https://github.com/your-username/todo-list-app.git
+Responsive Layout Design
 
-🌟 Future Improvements
+Clean Code Structure
+
+📸 Screenshots
+
+(Add your project screenshot here)
+
+Example:
+
+![App Screenshot](images/screenshot.png)
+
+🔮 Future Improvements
 
 Priority-based color coding
-Task filtering (All / Completed / Pending)
-Drag and drop task sorting
-Backend integration with database
-User authentication system
+
+Task filtering (Completed / Pending)
+
+Drag & Drop reordering
+
+Dark mode feature
+
+Backend database integration
 
 👨‍💻 Author
 
-Sujal Piprikar
-Frontend Developer
-GitHub: https://github.com/sujalpiprikar01
+Sujal Dilip Piprikar
+
+GitHub: (https://github.com/sujalpiprikar01)
+
+LinkedIn: (www.linkedin.com/in/sujal-piprikar-693548260)
+
+📄 License
+
+This project is created for educational and portfolio purposes.
