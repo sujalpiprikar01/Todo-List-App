@@ -111,7 +111,14 @@ Clean Code Structure
 
 Example:
 
-![App Screenshot](images/screenshot.png)
+![App Screenshot](screenshots/screenshot(69).png)
+![App Screenshot](screenshots/screenshot(70).png)
+![App Screenshot](screenshots/screenshot(71).png)
+![App Screenshot](screenshots/screenshot(72).png)
+![App Screenshot](screenshots/screenshot(73).png)
+![App Screenshot](screenshots/screenshot(74).png)
+![App Screenshot](screenshots/screenshot(75).png)
+![App Screenshot](screenshots/screenshot(76).png)
 
 🔮 Future Improvements
 
