@@ -3,9 +3,6 @@
 A modern, responsive, and fully interactive To-Do List web application built using core web technologies.
 This project allows users to efficiently manage daily tasks with features like task prioritization, due dates, and persistent storage.
 
-🚀 Live Demo
-
-👉 (Add your GitHub Pages / Netlify link here)
 
 📌 Project Overview
 
@@ -107,11 +104,20 @@ Clean Code Structure
 
 📸 Screenshots
 
-(Add your project screenshot here)
-
-Example:
-
+### Home Page
 ![Home Page](screenshots/Screenshot1.png)
+
+### Add Task
+![Add Task](screenshots/Screenshot3.png)
+
+### Completed Task
+![Completed](screenshots/Screenshot4.png)
+
+### Edited Task
+![Completed](screenshots/Screenshot5.png)
+
+### Delete Task
+![Delete Task](screenshots/Screenshot8.png)
 
 🔮 Future Improvements
 
@@ -135,4 +141,4 @@ LinkedIn: (www.linkedin.com/in/sujal-piprikar-693548260)
 
 📄 License
 
-This project is created for educational and portfolio purposes.
+This project is created for internship purpose.
