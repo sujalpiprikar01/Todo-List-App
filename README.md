@@ -1,11 +1,11 @@
-📝 **Interactive To-Do List Web App**
+# 📝 Interactive To-Do List Web App
 
 A modern, responsive, and fully interactive To-Do List web application built using core web technologies.
 This project allows users to efficiently manage daily tasks with features like task prioritization, due dates, and persistent storage.
 
 ----
 
-📌 **Project Overview**
+## 📌 Project Overview
 
 This application is designed to simulate a real-world task management system.
 
@@ -23,8 +23,9 @@ The goal of this project is to demonstrate DOM manipulation, event handling, and
 
 ----
 
-✨ **Key Features**
-📋 Task Management
+## ✨ Key Features
+
+### 📋Task Management
 
 Add new tasks
 
@@ -34,9 +35,7 @@ Delete tasks
 
 Mark tasks as completed
 
-----
-
-🔥 **Task Customization**
+### 🔥Task Customization
 
 Set Priority (Low / Medium / High)
 
@@ -44,17 +43,13 @@ Assign Due Date
 
 Visual task completion state
 
-----
-
-💾 **Data Persistence**
+### 💾 Data Persistence
 
 Tasks saved using LocalStorage
 
 Data remains even after page refresh
 
-----
-
-🎨 **UI & Design**
+### 🎨 UI & Design
 
 Modern gradient background
 
@@ -64,9 +59,7 @@ Responsive design
 
 Interactive buttons and hover effects
 
-----
-
-⚙️ **JavaScript Functionality**
+### ⚙️ JavaScript Functionality
 
 DOM Manipulation
 
@@ -92,32 +85,30 @@ JavaScript (ES6)
 
 LocalStorage API
 
-----
+---
 
-📂 **Project Structure**
+## 📂 Project Structure
+
+```
 📁 To-Do-List-App
 │── index.html
 │── style.css
 │── script.js
 │── images/
+```
 
-----
+---
 
-🎯 **Learning Objectives**
+## 🎯 Learning Objectives
 
 This project demonstrates:
 
-DOM Manipulation
-
-Event Handling
-
-LocalStorage Implementation
-
-Dynamic UI Rendering
-
-Responsive Layout Design
-
-Clean Code Structure
+- DOM Manipulation
+- Event Handling
+- LocalStorage Implementation
+- Dynamic UI Rendering
+- Responsive Layout Design
+- Clean Code Structure
 
 ----
 
@@ -140,32 +131,31 @@ Clean Code Structure
 
 ----
 
-🔮 **Future Improvements**
+## 🔮 Future Improvements
 
-Priority-based color coding
+- Priority-based color coding
+- Task filtering (Completed / Pending)
+- Drag & Drop reordering
+- Dark mode feature
+- Backend database integration
 
-Task filtering (Completed / Pending)
+---
 
-Drag & Drop reordering
+## 🚀 Live Demo
 
-Dark mode feature
+👉 [Click here to view the live website](https://sujalpiprikar01.github.io/Todo-List-App/)
 
-Backend database integration
+---
 
-----
+## 👨‍💻 Author
 
-👨‍💻**Author**
+**Sujal Piprikar**
 
-Sujal Dilip Piprikar
+- GitHub: (https://github.com/sujalpiprikar01)
+- LinkedIn: (www.linkedin.com/in/sujal-piprikar-693548260)
 
-----
+---
 
-**GitHub:** (https://github.com/sujalpiprikar01)
-
-**LinkedIn:** (www.linkedin.com/in/sujal-piprikar-693548260)
-
-----
-
-📄 **License**
+## 📄 License
 
 This project is created for internship purpose.
